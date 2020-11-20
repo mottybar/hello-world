@@ -1,5 +1,8 @@
 body {
- background-color: #650FF1;
+ background-image: url("css3.jpg");
+ background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
 }
 
 #p1 {
@@ -11,9 +14,9 @@ body {
   margin-right: 50em;
   font-family:courier,arial,helvetica;
   font-size: 20px;
-  color:white;
+  color:black;
   border: 5px solid #000066;
-  background-color: #800000;
+  /* background-color: #800000; */
   font-weight: bold;
 
 }
@@ -25,9 +28,9 @@ body {
   margin-right: 0em;
   font-family:courier,arial,helvetica;
   font-size: 20px;
-  color:white;
+  color:black;
   border: 5px solid #000066;
-  background-color: #800000;
+  /* background-color: #800000; */
   font-weight: bold;
 
 }
@@ -92,7 +95,7 @@ h5 {
   text-decoration:inherit;
   font-family:monospace;
   font-size: 30px;
-  color: black;
+  color: white;
   text-align:center;
   left: 600px;
   top: 500px;
