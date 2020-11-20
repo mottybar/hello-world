@@ -1,9 +1,5 @@
 body {
- background-color: #0FB7F1;
-
-
-
-
+ background-color: #650FF1;
 }
 
 #p1 {
@@ -15,9 +11,9 @@ body {
   margin-right: 50em;
   font-family:courier,arial,helvetica;
   font-size: 20px;
-  color:black;
+  color:white;
   border: 5px solid #000066;
-  /* background-color: #F1C40F; */
+  background-color: #800000;
   font-weight: bold;
 
 }
@@ -29,9 +25,9 @@ body {
   margin-right: 0em;
   font-family:courier,arial,helvetica;
   font-size: 20px;
-  color:black;
+  color:white;
   border: 5px solid #000066;
-  /* background-color: #F1C40F; */
+  background-color: #800000;
   font-weight: bold;
 
 }
