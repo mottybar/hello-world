@@ -1,0 +1,130 @@
+body {
+ background-color: #0FB7F1;
+
+
+
+
+}
+
+#p1 {
+
+  display: block;
+  margin-top: 5em;
+  margin-bottom: 0em;
+  margin-left: 0em;
+  margin-right: 50em;
+  font-family:courier,arial,helvetica;
+  font-size: 20px;
+  color:black;
+  border: 5px solid #000066;
+  /* background-color: #F1C40F; */
+  font-weight: bold;
+
+}
+#p2 {
+  display: block;
+  margin-top: -16.5em;
+  margin-bottom: 0em;
+  margin-left: 42em;
+  margin-right: 0em;
+  font-family:courier,arial,helvetica;
+  font-size: 20px;
+  color:black;
+  border: 5px solid #000066;
+  /* background-color: #F1C40F; */
+  font-weight: bold;
+
+}
+table,th,td
+    {
+      border:2px solid red;
+    }
+    table
+    {
+      border-collapse:collapse;
+      width:20%;
+
+    }
+    td
+    {
+      height:40px;
+      text-align: center;
+
+    }
+    tr
+    {
+      background-color:white;
+      color:white;
+    }
+    th
+    {
+      background-color:yellow;
+      color:black;
+    }
+  #image1 {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 150px;
+  border: 4px solid #555;
+    }
+
+  #image2 {
+  display: block;
+  position: absolute;
+  top: 0px;
+  right:10px;
+  width: 270px;
+  border: 4px solid #555;
+  }
+h5 {
+  position:relative;
+  left: -80px;
+  text-decoration: underline;
+  font-family:fantasy;
+  font-size: 50px;
+  color: black;
+  text-align:center;
+  margin-top: auto;
+
+
+
+}
+#h3-1 {
+  position: absolute;
+  text-decoration:inherit;
+  font-family:monospace;
+  font-size: 30px;
+  color: black;
+  text-align:center;
+  left: 600px;
+  top: 500px;
+
+}
+#h3-2 {
+  position: absolute;
+  text-decoration:inherit;
+  font-family:monospace;
+  font-size: 15px;
+  color: black;
+  text-align:center;
+  left: 623px;
+  top: 60px;
+
+}
+#span1 {
+    background-color: lightblue;
+    border: 3px solid #000066;
+}
+#span2 {
+    background-color: lightblue;
+    border: 3px solid #000066;
+}
+
+.center{
+  margin-top: -27em;
+  margin-bottom: 0em;
+  margin-left: 10em;
+  margin-right: 0em;
+}
