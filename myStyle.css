@@ -52,7 +52,7 @@ table,th,td
     }
     tr
     {
-      background-color:white;
+      background-color:yellow;
       color:white;
     }
     th
@@ -126,4 +126,11 @@ h5 {
   margin-bottom: 0em;
   margin-left: 10em;
   margin-right: 0em;
+}
+a
+ {
+  color: blue;
+}
+a:hover {
+  color: red;
 }
